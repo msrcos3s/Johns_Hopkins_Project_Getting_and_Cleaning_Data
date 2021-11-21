@@ -1,10 +1,10 @@
-# Johns_Hopkins_Project_Getting_and_Cleaning_Data
+# Getting and Cleaning Data - Course Project
 
-## Johns Hopkins Data Science Specialization Getting and Cleaning Data Coursera Class Project
+## Johns Hopkins Data Science Specialization 
 
 ### Overview
 
-This project is based in the Coursera Cleaning Data Course assignment.  
+This project is based in the Cleaning Data Course assignment, week 4.  
 
 ## Data Source
 
